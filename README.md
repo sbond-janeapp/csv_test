@@ -15,4 +15,4 @@ Here's what I'll be thinking about when I look at your solution:
 * are the solution and specs efficient?
 * are the commit message(s) informative?
 
-There isn't a single correct solution to the problem. I've purposely made the problem relatively easy to solve, so that you can focus on all the other stuff. I'm eager to see your solution and I'm also eager to hear about your experience writing the code. Let me know once your solution is done. If you like, I will offer you some feedback which you could incorporate.
+There isn't a single correct solution to the problem. We've purposely made the problem relatively easy to solve, so that you can focus on all the other stuff. We're eager to see your solution and I'm also eager to hear about your experience writing the code. Please open a pull request with you completed assignment and let us know once your solution is done. If you like, we will offer you some feedback which you could incorporate.
